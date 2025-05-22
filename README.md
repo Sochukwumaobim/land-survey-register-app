@@ -17,7 +17,9 @@ This is a full-stack GIS web application developed using Flask, PostgreSQL/PostG
 - Leaflet or Cesium for map visualization
 
 ## Screenshots
-*Add screenshots here*
+![image](https://github.com/user-attachments/assets/224c75e4-8def-41a6-a75c-150baa7700c3)
+
+
 
 ## Setup Instructions
 1. Clone the repo
