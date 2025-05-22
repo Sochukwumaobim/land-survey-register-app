@@ -1,2 +1,31 @@
 # land-survey-register-app
-This project is a full-stack web-based GIS solution developed using Python (Flask), PostgreSQL/PostGIS, JavaScript, and Leaflet/Cesium. It allows surveyors or land record officers to input, store, and visualize spatial data like points, lines, and polygons with metadata such as owner name and survey date.
+# Web-Based GIS Land Survey Record System 🗺️
+
+This is a full-stack GIS web application developed using Flask, PostgreSQL/PostGIS, and JavaScript to manage and visualize land survey records.
+
+## Features
+- Add new records with geometry (Point, LineString, Polygon)
+- Store spatial and non-spatial attributes
+- Visualize data on an interactive map
+- Backend API built with Flask
+- Uses PostGIS for spatial queries
+
+## Technologies
+- Python + Flask
+- PostgreSQL + PostGIS
+- HTML/CSS/JS
+- Leaflet or Cesium for map visualization
+
+## Screenshots
+*Add screenshots here*
+
+## Setup Instructions
+1. Clone the repo
+2. Set up a PostgreSQL database with PostGIS
+3. Run `pip install -r requirements.txt`
+4. Run the Flask app with `python app.py`
+5. Open `index.html` in browser
+
+## License
+MIT License
+
